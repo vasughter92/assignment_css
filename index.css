@@ -1,0 +1,36 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:32px;
+}
+/* It is understood that conatiners are handled differently from the content*/
+header {
+    background-color:papayawhip;
+    padding:25px;
+    margin:50px;
+    max-width:500%;
+    border:1px solid blue;
+}
+a {
+    text-decoration:none;
+    color:black;
+    
+}
+a:hover {
+    background-color:powderblue;
+}
+
+.article1, .article2, .article3 {
+    color:blue;
+    padding:10px;
+    text-align:justify;
+}
+h2{
+    text-align:center;
+    color:red;
+}
+
+footer{
+    background-color:black;
+    color:white;
+    text-align:center;
+}
